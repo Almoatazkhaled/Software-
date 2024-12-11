@@ -99,7 +99,7 @@ int main() {
             cout << "Exiting program. Goodbye!\n";
             break;
         default:
-            cout << "Invalid choice! Please try again.\n";
+            cout << "please try again .\n";
         }
     } while (choice != 4);
 
